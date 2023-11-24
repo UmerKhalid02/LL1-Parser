@@ -35,7 +35,7 @@ o In case of multiple elements of first or follow set. You can write multiple en
   &emsp;▪ T <tab> )  
     
   
-# Assumption  
+# Assumptions  
 Grammar is not left recursive  
 Grammar is not ambiguous  
 grammar is left factored  
