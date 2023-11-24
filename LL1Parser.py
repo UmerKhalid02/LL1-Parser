@@ -208,7 +208,7 @@ def ParseInputString(input_string, parse_dict, grammar):
 
 
 def main():
-    grammar = ReadGrammar('grammar6.txt')
+    grammar = ReadGrammar('grammar.txt')
     eps_productions = EpsilonProductions(grammar)
 
     first_sets = {}
