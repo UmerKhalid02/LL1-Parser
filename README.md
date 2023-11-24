@@ -2,7 +2,7 @@
 
 You code must read the CFG from text file. The format of the grammar is as follows:  
 o Every production is written separately on a new line.  
-  <tab><tab>▪ E.g. 𝐸 → 𝐸 + 𝑇 / 𝑇(𝑤𝑟𝑜𝑛𝑔)  
+  &emsp;▪ E.g. 𝐸 → 𝐸 + 𝑇 / 𝑇(𝑤𝑟𝑜𝑛𝑔)  
   <tab><tab>▪ 𝐸 → 𝐸 + 𝑇  
   <tab><tab>  𝐸 → 𝑇 (𝑟𝑖𝑔ℎ𝑡)  
 • The data in the file should be tab separated.  
