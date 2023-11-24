@@ -34,17 +34,6 @@ o In case of multiple elements of first or follow set. You can write multiple en
   ▪ T <tab> $  
   ▪ T <tab> )  
     
-• The format of parseoutput.txt file is:  
-  
-Enter the input string: id+id*id$  
-======================================  
-Stack         Input             Action  
-======================================  
-$E           id+id*id$          E=T ED  
-Etc.  
-======================================  
-YOUR STRING HAS BEEN ACCEPTED/REJECTED   
-======================================  
   
 # Assumption  
 Grammar is not left recursive  
