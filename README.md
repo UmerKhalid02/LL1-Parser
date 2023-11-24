@@ -1,6 +1,6 @@
 # Requirements
 
-You code must read the CFG from text file. The format of the grammar is as follows:
+You code must read the CFG from text file. The format of the grammar is as follows:  
 o Every production is written separately on a new line.
   ▪ E.g. 𝐸 → 𝐸 + 𝑇 / 𝑇(𝑤𝑟𝑜𝑛𝑔)
   ▪ 𝐸 → 𝐸 + 𝑇
